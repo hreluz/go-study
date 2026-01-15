@@ -1,0 +1,3 @@
+module day2_step3_promotion_rules_1_normal_field_inclusion
+
+go 1.22.4

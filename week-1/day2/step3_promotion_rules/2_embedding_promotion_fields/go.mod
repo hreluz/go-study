@@ -1,0 +1,3 @@
+module day2_step3_promotion_rules_2_embedding_promotion_fields_methods
+
+go 1.22.4
