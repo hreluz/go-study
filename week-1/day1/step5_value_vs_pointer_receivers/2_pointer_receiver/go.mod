@@ -1,0 +1,3 @@
+module day1_step5_value_vs_pointer_receivers_2_pointer_receiver
+
+go 1.22.4
