@@ -1,0 +1,3 @@
+module day2_step6_refactoring_an_inheritance_style_design_to_composition_2_refactored_design
+
+go 1.22.4

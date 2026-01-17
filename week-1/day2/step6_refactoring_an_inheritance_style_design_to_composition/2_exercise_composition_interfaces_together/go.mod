@@ -1,0 +1,3 @@
+module day2_step6_refactoring_an_inheritance_style_design_to_composition_3_compositino_interfaces_together
+
+go 1.22.4

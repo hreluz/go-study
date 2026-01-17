@@ -1,0 +1,3 @@
+module day2_step4_avoid_pseudo_inheritance_5_composition_as_behaviour_sharing_5_behavior
+
+go 1.22.4

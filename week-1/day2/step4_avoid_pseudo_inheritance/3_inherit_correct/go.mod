@@ -1,0 +1,3 @@
+module day2_step4_avoid_pseudo_inheritance_3_inherit_correct
+
+go 1.22.4

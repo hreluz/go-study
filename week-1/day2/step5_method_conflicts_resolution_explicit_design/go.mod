@@ -1,0 +1,3 @@
+module day2_step5_method_conflicts_resoluction_explicit_design
+
+go 1.22.4

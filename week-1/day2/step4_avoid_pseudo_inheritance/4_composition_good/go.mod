@@ -1,0 +1,3 @@
+module day2_step4_avoid_pseudo_inheritance_4_composition_good
+
+go 1.22.4
