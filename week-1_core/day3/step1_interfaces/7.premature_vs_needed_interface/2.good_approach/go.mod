@@ -1,0 +1,3 @@
+module day3_step1_interfaces_7_premature_vs_needed_interface_2_good_approach
+
+go 1.22.4

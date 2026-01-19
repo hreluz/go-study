@@ -1,0 +1,3 @@
+module day3_step1_interfaces_6_embedded_types_And_interface_satisfaction
+
+go 1.22.4

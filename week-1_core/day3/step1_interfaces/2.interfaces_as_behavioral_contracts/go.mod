@@ -1,0 +1,3 @@
+module day3_step1_interfaces_2_interfaces_as_behavioral_contracts
+
+go 1.22.4

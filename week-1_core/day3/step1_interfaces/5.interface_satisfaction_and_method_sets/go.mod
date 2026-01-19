@@ -1,0 +1,3 @@
+module day3_step1_interfaces_5_interface_satisfaction_and_method_sets
+
+go 1.22.4

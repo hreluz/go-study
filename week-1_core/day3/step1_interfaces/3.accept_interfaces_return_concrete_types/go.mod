@@ -1,0 +1,3 @@
+module day3_step1_interfaces_3_accept_interfaces_return_concrete_types
+
+go 1.22.4
