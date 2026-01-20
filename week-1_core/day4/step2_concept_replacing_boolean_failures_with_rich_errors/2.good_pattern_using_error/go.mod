@@ -1,0 +1,3 @@
+module day4_step2_concept_replacing_boolean_failures_with_rich_errors_1_good_pattern
+
+go 1.22.4
