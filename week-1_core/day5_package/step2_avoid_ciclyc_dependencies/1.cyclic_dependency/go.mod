@@ -1,0 +1,3 @@
+module day5_package_step_2_avoid_cyclic_dependencies_1_cyclic_dependency
+
+go 1.22.4
