@@ -1,0 +1,3 @@
+module day6_context_and_initialization_3_making_context_mandatory_1_context_cancellation_propagates_downward
+
+go 1.22.4

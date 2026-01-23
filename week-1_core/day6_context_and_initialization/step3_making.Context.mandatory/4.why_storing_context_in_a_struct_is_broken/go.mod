@@ -1,0 +1,3 @@
+module day6_context_and_initialization_4_why_storing_context_in_a_struct_is_broken
+
+go 1.22.4

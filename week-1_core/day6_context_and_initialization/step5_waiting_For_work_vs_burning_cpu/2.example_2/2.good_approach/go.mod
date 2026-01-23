@@ -1,0 +1,3 @@
+module day6_context_and_initialization_5_waiting_for_work_vs_burning_cpu_2_example_2_good_approach
+
+go 1.22.4

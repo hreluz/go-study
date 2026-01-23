@@ -1,0 +1,3 @@
+module day6_context_and_initialization_2_deadlines_and_cancellation
+
+go 1.22.4

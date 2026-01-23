@@ -1,0 +1,3 @@
+module day6_context_and_initialization_5_why_init_cannot_use_context_correctly
+
+go 1.22.4

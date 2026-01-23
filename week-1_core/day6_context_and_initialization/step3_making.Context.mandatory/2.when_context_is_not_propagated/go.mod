@@ -1,0 +1,3 @@
+module day6_context_and_initialization_2_when_context_is_not_propagated
+
+go 1.22.4

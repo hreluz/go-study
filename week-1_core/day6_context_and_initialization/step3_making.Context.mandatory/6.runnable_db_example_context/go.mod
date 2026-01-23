@@ -1,0 +1,3 @@
+module day6_context_and_initialization_6_runnable_db_example_context
+
+go 1.22.4

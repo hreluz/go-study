@@ -1,0 +1,3 @@
+module day6_context_and_initialization_3_correct_cooperative_cancellation_loop
+
+go 1.22.4
