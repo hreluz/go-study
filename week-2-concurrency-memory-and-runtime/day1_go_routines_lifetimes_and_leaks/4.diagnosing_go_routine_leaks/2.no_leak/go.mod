@@ -1,0 +1,3 @@
+module day_1_go_routines_4_diagnosing_go_routine_leaks_2_no_leak
+
+go 1.25.6

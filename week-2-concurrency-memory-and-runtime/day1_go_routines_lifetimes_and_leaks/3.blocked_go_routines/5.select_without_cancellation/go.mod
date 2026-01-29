@@ -1,0 +1,3 @@
+module day_1_go_routines_3_blocked_go_routines_5_select_without_cancellation
+
+go 1.25.6

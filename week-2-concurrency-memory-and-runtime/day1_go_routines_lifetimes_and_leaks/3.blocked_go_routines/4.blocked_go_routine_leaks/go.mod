@@ -1,0 +1,3 @@
+module day_1_go_routines_3_blocked_go_routines_4_blocked_go_routine_leaks
+
+go 1.25.6

@@ -1,0 +1,3 @@
+module day_1_go_routines_6_context_Context_3_good_approach
+
+go 1.25.6

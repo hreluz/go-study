@@ -1,0 +1,3 @@
+module day_1_go_routines_6_context_Context_2_bad_approach
+
+go 1.25.6

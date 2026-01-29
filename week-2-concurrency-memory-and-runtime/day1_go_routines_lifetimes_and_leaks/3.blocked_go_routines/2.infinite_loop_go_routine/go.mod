@@ -1,0 +1,3 @@
+module day_1_go_routines_3_blocked_go_routines_2_infinite_loop_go_routine
+
+go 1.25.6

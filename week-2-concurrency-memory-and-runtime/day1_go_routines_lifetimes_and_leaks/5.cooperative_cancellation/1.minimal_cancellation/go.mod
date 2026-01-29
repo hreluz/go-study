@@ -1,0 +1,3 @@
+module day_1_go_routines_5_cooperative_cancellation_1_minimal_cancellation
+
+go 1.25.6
