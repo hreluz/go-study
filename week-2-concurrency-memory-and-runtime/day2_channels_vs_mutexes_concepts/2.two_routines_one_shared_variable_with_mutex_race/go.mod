@@ -1,0 +1,3 @@
+module day_2_2_two_routines_shared_variables_with_mutex_race
+
+go 1.25.6
