@@ -1,0 +1,3 @@
+module day3_go_memory_model_step_1_happens_before_3_other_bad_approach
+
+go 1.22.4

@@ -1,0 +1,3 @@
+module day3_go_memory_model_step_3_false_sharing_1_bad_approach
+
+go 1.22.4

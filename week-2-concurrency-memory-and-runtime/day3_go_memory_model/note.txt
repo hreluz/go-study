@@ -1,0 +1,15 @@
+Real-life analogy (cause → effect)
+
+    Bad: “I waited a bit, so it must be done”
+
+        You send a document to a printer and walk away for 10 seconds. You assume it printed.
+        But the printer could be paused, out of paper, or delayed. Your waiting is not a proof.
+
+        time.Sleep is exactly that: waiting without proof.
+
+    Good: “I received an explicit confirmation”
+
+        The printer sends you a notification: “Printed successfully.”
+        Only then do you act as if it is done.
+
+        A channel receive (<-ch) or wg.Wait() is that explicit confirmation. It creates a happens-before relationship.
