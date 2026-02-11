@@ -1,0 +1,3 @@
+module day4_go_scheduler_step2_the_role_of_processor_1_runnable_observation
+
+go 1.22.4

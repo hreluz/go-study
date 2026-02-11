@@ -1,0 +1,3 @@
+module day4_go_scheduler_step4_work_stealing_1_without_work_stealing
+
+go 1.22.4

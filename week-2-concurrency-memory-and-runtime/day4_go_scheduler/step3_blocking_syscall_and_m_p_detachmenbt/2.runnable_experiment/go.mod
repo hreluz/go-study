@@ -1,0 +1,3 @@
+module day4_go_scheduler_step3_blocking_syscall_2_runnable_experiment
+
+go 1.22.4
