@@ -1,0 +1,3 @@
+module day5_garbage_collector_step_4_gc_tuning_knob_gogc_1_exercise
+
+go 1.22.4

@@ -1,0 +1,3 @@
+module day5_garbage_collector_step_1_1_reachable_vs_unreachable
+
+go 1.22.4

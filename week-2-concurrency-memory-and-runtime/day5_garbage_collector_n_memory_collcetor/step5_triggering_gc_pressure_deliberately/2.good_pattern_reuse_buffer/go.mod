@@ -1,0 +1,3 @@
+module day5_garbage_collector_step_5_triggering_gc_2_good_pattern_reuse_buffer
+
+go 1.22.4

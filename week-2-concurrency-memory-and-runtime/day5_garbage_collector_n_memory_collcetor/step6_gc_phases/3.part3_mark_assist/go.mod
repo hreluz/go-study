@@ -1,0 +1,3 @@
+module day5_garbage_collector_step6_gc_phases_2_part3_mark_assist
+
+go 1.22.4
