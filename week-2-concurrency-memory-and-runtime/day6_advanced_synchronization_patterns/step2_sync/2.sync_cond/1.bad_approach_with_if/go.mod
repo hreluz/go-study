@@ -1,0 +1,3 @@
+module day_6_advanced_sync_step2_sync_2_sync_cond_1_bad_apporach_with_if
+
+go 1.22.4

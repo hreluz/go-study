@@ -1,0 +1,3 @@
+module day_6_advanced_sync_step6_sync_map_trade_off_1_standard_safe_pattern
+
+go 1.22.4

@@ -1,0 +1,3 @@
+module day_6_advanced_sync_step7_exercuses_1_build_a_leak_free_worker_pool
+
+go 1.22.4

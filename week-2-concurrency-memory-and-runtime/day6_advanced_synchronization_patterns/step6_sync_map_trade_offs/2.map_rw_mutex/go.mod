@@ -1,0 +1,3 @@
+module day_6_advanced_sync_step6_sync_map_trade_off_2_nmap_rw_mutex
+
+go 1.22.4

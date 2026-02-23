@@ -1,0 +1,3 @@
+module day_6_advanced_sync_step7_exercuses_2_pool_explicity_leak_free_wait_worker_exit
+
+go 1.22.4

@@ -1,0 +1,3 @@
+module day_6_advanced_sync_step5_bounded_concurrency_1_cannonical_semaphore_with_channel
+
+go 1.22.4

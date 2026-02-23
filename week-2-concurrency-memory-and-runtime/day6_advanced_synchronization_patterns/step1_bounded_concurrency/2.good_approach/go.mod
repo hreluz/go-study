@@ -1,0 +1,3 @@
+module day_6_advanced_sync_step1_bounded_concurrency_2_good_approach
+
+go 1.22.4

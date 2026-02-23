@@ -1,0 +1,3 @@
+module day_6_advanced_sync_step4_leak_free_worker_pool_1_deadlock_demonstration
+
+go 1.22.4

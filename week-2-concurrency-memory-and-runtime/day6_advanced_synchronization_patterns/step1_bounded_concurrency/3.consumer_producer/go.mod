@@ -1,0 +1,3 @@
+module day_6_advanced_sync_step1_bounded_concurrency_3_consumer_producer
+
+go 1.22.4
